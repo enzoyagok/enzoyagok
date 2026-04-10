@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Enzo Yago Keil and I'm a ..., from Brasil/SC/BNU</h2>
+<h2 align="left">Hi 👋! My name is Enzo Yago Keil and I'm estou cursando IA/Entra21, from Brasil/SC/BNU</h2>
 
 ###
 
